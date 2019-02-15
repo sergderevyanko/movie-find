@@ -1,0 +1,23 @@
+{
+  "name": "movie-find",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Derevyanko",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "16.2.3",
+    "flux": "3.1.3",
+    "gulp": "4.0.0",
+    "reactify": "1.1.1",
+    "vinyl-source-stream": "2.0.0",
+    "object-assign": "4.1.1"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
